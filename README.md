@@ -1,4 +1,4 @@
-# TaskTrek
+# Humour Hive
 
 <p align="center">
   <img src="logo.png" width="200" height="200" alt="Humour Hive Logo">
@@ -17,14 +17,13 @@
 
 ## Introduction
 
-**TaskTrek** is a user-friendly Android application designed to help you manage your tasks efficiently. With TaskTrek, you can add tasks with descriptions, edit existing tasks, and enjoy the peace of mind knowing that no data is stored on our end.
+**Humour Hive** is a fun and engaging Android application designed for meme lovers. With Humour Hive, you can view and share memes easily. The app uses Glide dependencies for efficient image loading, ensuring a smooth and seamless experience.
 
 ## Features
 
-- 📝 **Add tasks with descriptions**
-- 💡 **User-friendly interface**
-- 🔒 **No data storage on our end**
-- ✏️ **Edit tasks**
+- 😂 **View and share memes**
+- 🚀 **Smooth image loading with Glide**
+- 📤 **Share memes with friends**
 
 ## Screenshots
 
@@ -35,11 +34,11 @@ Include some screenshots of your app here.
 
 ## Installation
 
-Step-by-step instructions to set up a development environment for TaskTrek.
+Step-by-step instructions to set up a development environment for Humour Hive.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Aadarsh45/TaskTrek.git
+    git clone https://github.com/your-username/HumourHive.git
     ```
 2. **Open the project in Android Studio.**
 3. **Build the project:**
@@ -52,13 +51,11 @@ Step-by-step instructions to set up a development environment for TaskTrek.
 
 Instructions and examples for using the app.
 
-1. Open the TaskTrek app on your device.
-2. Add a new task by entering the task description.
-3. Edit existing tasks by selecting the task and making the desired changes.
+1. Open the Humour Hive app on your device.
+2. Browse through the collection of memes.
+3. Share your favorite memes with friends.
 
-## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more information.
 
 1. **Fork the repository.**
 2. **Create a new branch:**
@@ -77,8 +74,10 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 6. **Open a pull request.**
 
 
+
 ## Contact
 
 Aadarsh Chaurasia - [aadarshchaurasia45@gmail.com](mailto:aadarshchaurasia45@gmail.com)
 
-Project Link: [https://github.com/Aadarsh45/TaskTrek](https://github.com/Aadarsh45/TaskTrek)
+Project Link: [https://github.com/your-username/HumourHive](https://github.com/your-username/HumourHive)
+
