@@ -38,7 +38,7 @@ Step-by-step instructions to set up a development environment for Humour Hive.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/HumourHive.git
+    git clone https://github.com/Aadarsh45/HumourHive.git
     ```
 2. **Open the project in Android Studio.**
 3. **Build the project:**
@@ -79,5 +79,5 @@ Instructions and examples for using the app.
 
 Aadarsh Chaurasia - [aadarshchaurasia45@gmail.com](mailto:aadarshchaurasia45@gmail.com)
 
-Project Link: [https://github.com/your-username/HumourHive](https://github.com/your-username/HumourHive)
+
 
